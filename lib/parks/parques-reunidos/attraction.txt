@@ -1,0 +1,4249 @@
+{
+  "data": [
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9161,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378337,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127181,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:30:28"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "007dcb36-a711-4780-af0e-520648280e3d"
+      },
+      "galleryId": 134975,
+      "id": 127181,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262443
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.61974945035036,
+          "longitude": 6.976183608124922,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "6fa1befc-a68c-4962-9518-eb60c16983ba",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:00",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 1,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Trap",
+            "de": "Treppe"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,35 m (met begeleiding vanaf 0,90 m)",
+            "de": "ab 1,35 m (in Begleitung ab 0,90 m)"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Backyardigans Mission to Mars is een spannende rit naar een buitenaardse wereld. Je kunt het karige landschap van Mars verkennen vanaf een hoogte van ongeveer 8 meters. En wie weet, misschien ontmoet je hier zelfs kleine groene marsmannetjes?",
+        "de": "Backyardigans Mission to Mars ist eine aufregende Fahrt in eine fremde Welt. Aus etwa 8 Metern Höhe könnt Ihr dabei die karge Marslandschaft erkunden. Wer weiß, vielleicht begegnet Ihr hier sogar kleinen grünen Marsmännchen?"
+      },
+      "translatableName": {
+        "nl": "Backyardigans Mission to Mars",
+        "de": "Backyardigans Mission to Mars"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "De familieachtbaan - 3, 2, 1, ontsteking!",
+        "de": "Die Familienachterbahn - 3, 2, 1, Zündung!"
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9160,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378295,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127167,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:07:47"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "613bf39d-370b-4f1b-a175-e5636ff149f4"
+      },
+      "galleryId": 134975,
+      "id": 127167,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        311000
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.618725269888074,
+          "longitude": 6.975781919891646,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "9c28540d-fc99-4417-8f95-bcda42694c25",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:59",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 2,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 0,90 m",
+            "de": "ab 0,90 m"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Stap in en maak je gordel vast – want tijdens de “PAW Patrol Adventure Tour” beleven jullie hele gezin een spannende offroad-rit met jullie helden op vier pootjes.",
+        "de": "Einsteigen und Anschnallen – denn auf der „PAW Patrol Adventure Tour“ erlebt Eure ganze Familie eine spannende Off-Road-Fahrt mit Euren Helden auf vier Pfoten."
+      },
+      "translatableName": {
+        "nl": "Adventure Tour",
+        "de": "Adventure Tour"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Familieavontuur op vier wielen met PAW Patrol.",
+        "de": "Familienabenteuer auf vier Rädern mit PAW Patrol."
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9161,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378340,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127182,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:31:27"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "4e102974-6255-4791-a6c9-c2b0b69ecff8"
+      },
+      "galleryId": 134975,
+      "id": 127182,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262444
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.61991505503364,
+          "longitude": 6.976545598377575,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "e8694b95-3aba-47b5-b403-a0a1c038df66",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:00",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 3,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1.40 m (onder begeleiding van iemand van 1.20 m)",
+            "de": "ab 1,40 m (in Begleitung ab 1,20  m)"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Met de Avatar Air Glider leun je niet gewoon naar achter, maar maak je de rit liggend op je buik. Je krijgt niet alleen een vogelperspectief over het themapark, je komt ook verbazingwekkend dicht bij het gevoel van vliegen.",
+        "de": "Beim Avatar Air Glider lehnt Ihr Euch nicht einfach zurück – stattdessen absolviert Ihr die Fahrt auf dem Bauch liegend. So seht Ihr den Freizeitpark nicht nur aus der Vogelperspektive, Ihr kommt dem Gefühl des Fliegens zudem erstaunlich nah."
+      },
+      "translatableName": {
+        "nl": "Avatar Air Glider",
+        "de": "Avatar Air Glider"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Word een airbender!",
+        "de": "Werdet zum Luftbändiger!"
+      },
+      "ts": "2025-01-07 13:47:33",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9160,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378304,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127170,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:13:18"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "d92b74a5-8678-4bdd-a2f0-a5a2b6f9b5f6"
+      },
+      "galleryId": 134975,
+      "id": 127170,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262434
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.61867001971412,
+          "longitude": 6.975749666329385,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "2ef14b92-b683-4c40-8f69-43d5f395a098",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:59",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 4,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 0,90 m",
+            "de": "ab 0,90 m"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Beleef een spannende hovercraftrit met Zuma, de waterminnende Labrador.",
+        "de": "Erlebt mit Zuma, dem wasserliebenden Labrador, eine aufregende Luftkissenbootsfahrt."
+      },
+      "translatableName": {
+        "nl": "Zuma's Zoomers",
+        "de": "Zuma's Zoomers"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Wilde rit door scherpe bochten",
+        "de": "Rasante Kurvenfahrt mit Zuma."
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9161,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378343,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127183,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:32:31"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "9d37f2f6-c419-41f6-9cf5-a04cea990388"
+      },
+      "galleryId": 134975,
+      "id": 127183,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262445
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.61939661592261,
+          "longitude": 6.975875797207167,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "50fd92e2-0a57-4e9f-b642-c1512038d475",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:00",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 5,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,20 m",
+            "de": "ab 1,20 m"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "De Splat-O-Sphere nodigt je uit om het themapark vanaf duizelingwekkende hoogten te verkennen.",
+        "de": "Der Splat-O-Sphere lädt Euch ein, den Freizeitpark aus schwindelerregender Höhe zu erkunden."
+      },
+      "translatableName": {
+        "nl": "Splat-O-Sphere",
+        "de": "Splat-O-Sphere"
+      },
+      "translatableReservationTitle": {
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "De draaimolen op duizelingwekkende hoogte.",
+        "de": "Das Kettenkarussell in schwindelerregender Höhe. "
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9160,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378307,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127171,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:15:03"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "85a46c4a-2359-43c1-a622-9ae2ae423e57"
+      },
+      "galleryId": 134975,
+      "id": 127171,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        311001
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.61884078520734,
+          "longitude": 6.975897254879286,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "e8aa8e6e-fea2-4ad7-8a5e-c1dd3664197f",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:59",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 6,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Trap",
+            "de": " Treppe"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,35 m (onder 1,35 m onder begeleiding)",
+            "de": " ab 1,35 m (unter 1,35 m in Begleitung)"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Ga op een spannende vliegmissie in Adventure Bay in \"Skye's High Flyer\". Samen met hond Skye kan het hele gezin nu hun ronde doen en een avontuur beleven net als PAW Patrol helden. Klaar om op te stijgen? Houd je dan stevig vast, de helikopter zal opstijgen over 3, 2, 1...",
+        "de": "Begebt Euch bei „Skye's High Flyer“ auf eine spannende Flugmission in Adventure Bay. Gemeinsam mit Hündin Skye kann die ganze Familie ab sofort ihre Runden drehen und Abenteuerluft schnuppern wie die PAW Patrol Helden. Bereit zum Abflug? Dann haltet Euch fest, der Hubschrauber startet in 3, 2, 1 …"
+      },
+      "translatableName": {
+        "nl": "Skye's High Flyer",
+        "de": "Skye's High Flyer"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Tijdens deze vluchtmissie vlieg je hoog!",
+        "de": "Auf dieser Flugmission geht es hoch hinaus!"
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9160,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378310,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127172,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:17:11"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "66f19b82-f2d1-44a2-9f73-c518196c3cd2"
+      },
+      "galleryId": 134975,
+      "id": 127172,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262435
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.61953395221072,
+          "longitude": 6.974411311085036,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "6a00d93a-2fb4-4db9-bcbe-66ff38cef4e1",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:59",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 7,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Trap",
+            "de": "Treppe"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,20 m (met begeleiding vanaf 0,90 m)",
+            "de": "ab 1,20 m (in Begleitung ab 0,90 m)"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Heb je SpongeBob altijd al in zijn onderwaterwereld willen bezoeken? In de SpongeBob Splash Bash verken je Bikini Bottom in kleine bootjes, bezoek je de Krusty Krab en ontmoet je Octo Tentacles, Patrick Ster, de huisdierenslak Gerrit, de vervelende Plankton en natuurlijk de spons zelf!",
+        "de": "Ihr wolltet schon immer SpongeBob in seiner Heimat besuchen? Im SpongeBob Splash Bash erkundet Ihr in kleinen Booten Bikini Bottom, besucht die Krosse Krabbe und begegnet Thaddäus Tentakel, Patrick Star, Hausschnecke Gary, dem fiesen Sheldon J. Plankton und natürlich dem Schwammkopf selbst!"
+      },
+      "translatableName": {
+        "nl": "SpongeBob Splash Bash",
+        "de": "SpongeBob Splash Bash"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Spetterende waterrit door Bikini Bottom!",
+        "de": "Spritzige Wasserfahrt durch Bikini Bottom!"
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9161,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378346,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127184,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:33:30"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "8aa09f17-16d3-44b1-b4ce-bb7f7b22256c"
+      },
+      "galleryId": 134975,
+      "id": 127184,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262446
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62370914222357,
+          "longitude": 6.9728234433482195,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "d78c698e-b3b9-4e3e-8e62-0e413e77a0b6",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:00",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 8,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "vanaf 0,90 m (1,05 m indien vergezeld)",
+            "de": "ab 0,90 m (1,05 m in Begleitung)"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "de": "Eine Bootsfahrt, die ist lustig – und bei Stormy Cruise vor allem aufregend! Wie auf hoher See werdet Ihr hier ordentlich durchgeschüttelt. Aber keine Sorge: Zwar fühlt sich Stormy Cruise an wie eine Kreuzfahrt bei Sturm, Gefahr zu kentern besteht aber keine.",
+        "nl": "Een boottocht is leuk - en met Stormy Cruise vooral spannend! Net als op volle zee wordt je hier good opgeschud. Maar maak je geen zorgen: Stormy Cruise voelt als een cruise in een storm, maar er is geen risico op kapseizen."
+      },
+      "translatableName": {
+        "nl": "Stormy Cruise",
+        "de": "Stormy Cruise"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "de": "Eine stürmische Bootsfahrt für kleine Kapitäne.",
+        "nl": "Een stormachtige boottocht voor kleine kapiteins."
+      },
+      "ts": "2025-03-24 14:26:46",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9160,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378313,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127173,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:18:20"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "8524bcfa-ac83-42eb-b026-349085065b26"
+      },
+      "galleryId": 134975,
+      "id": 127173,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262436
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.61976303655071,
+          "longitude": 6.974916519283951,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "b5824ce1-8c29-400a-9e38-3fb64e5d34f1",
+      "published": true,
+      "publishedTimestamp": "2021-01-25 12:31:48",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 9,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "0,90 - 1,60 m",
+            "de": "0,90 - 1,60 m"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Hier in de Sea Swing ga je samen met SpongeBob op een gezellige excursie: samen verkennen jullie het kwallenveld bij Bikini Bottom. Ook ervaar je zelf hoe gewichtloosheid moet voelen in de spannende onderwaterwereld!",
+        "de": "Hier im Sea Swing etwa begleitet Ihr SpongeBob bei einem gemütlichen Ausflug: Gemeinsam erkundet Ihr das Quallenfeld vor Bikini Bottom. Dabei erfahrt Ihr außerdem am eigenen Körper, wie sich die Schwerelosigkeit in der aufregenden Unterwasserwelt anfühlen muss!"
+      },
+      "translatableName": {
+        "nl": "Sea Swing",
+        "de": "Sea Swing"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Vlieg door het kwallenveld van Bikini Bottom!",
+        "de": "Fliegt durch das Quallenfeld von Bikini Bottom!"
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9160,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378316,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127174,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:19:45"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "galleryId": 134975,
+      "id": 127174,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262437
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.61997318131624,
+          "longitude": 6.974399553610202,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "6cd161db-a644-4aa5-9ea9-294daf8aaab5",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:59",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 10,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": true,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "0,90 - 1,50 m",
+            "de": "0,90 - 1,50 m"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Is autorijden alleen iets voor volwassenen? Dit geldt uiteraard voor de normale straten, maar niet voor de Teenage Mutant Ninja Turtles-banen! Met de hulp van Leonardo, Donatello, Raphael en Michelangelo leer je in een mum van tijd de verkeersregels en kun je zelfs je rijbewijs halen.",
+        "de": "Autofahren ist nur etwas für Erwachsene? Für gewöhnliche Straßen trifft das natürlich zu, nicht aber für die Parcours der Teenage Mutant Ninja Turtles! Mit der Hilfe von Leonardo, Donatello, Raphael und Michelangelo habt Ihr die Verkehrsregeln im Handumdrehen gelernt und könnt sogar Euren Führerschein machen."
+      },
+      "translatableName": {
+        "nl": "Teenage Mutant Ninja Turtles",
+        "de": "Teenage Mutant Ninja Turtles"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Verkeersveilig door New York City.",
+        "de": "Verkehrssicher durch New York City."
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "urlList": [
+        {
+          "urlTitle": {
+            "de": "Tickets hier!"
+          },
+          "websiteInBrowser": true,
+          "urlTranslatable": {
+            "de": "http://www.moviepark.de/terminbuchen/#/pick-your-place/a8488bf3-0734-4402-81ae-f8a88d787563"
+          }
+        }
+      ],
+      "waitingTime": -1,
+      "waitingTimeLastUpdate": "2024-09-05 09:09:18"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9160,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378319,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127175,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:21:47"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "5e03b14c-0e20-476e-bbe3-88f984f1544d"
+      },
+      "galleryId": 134975,
+      "id": 127175,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262438
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62329213571186,
+          "longitude": 6.974579015540079,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "c0dbde6d-5c82-42d6-8f65-58ac37562a07",
+      "published": true,
+      "publishedTimestamp": "2021-01-25 12:31:48",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 11,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,05 m (onder 1,05 m alleen aan de voorkant van de auto)",
+            "de": "ab 1,05 m (unter 1,05 m nur vorne im Auto)"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Als er brand is, bel je 112 en dan komt de brandweer - dat weet elk kind. In Movie Park Germany word je onbevreesde leden van de brandweer en kun je je moed en vaardigheden demonstreren tijdens een brand!",
+        "de": "Wenn es brennt, wählst du 112 und dann kommt die Feuerwehr – das weiß jedes Kind. Im Movie Park Germany seid Ihr selbst furchtlose Mitglieder der Feuerwehr und könnt bei einem Brand Mut und Geschick beweisen!"
+      },
+      "translatableName": {
+        "nl": "Rescue 112",
+        "de": "Rescue 112"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Help de brandweer een brandend huis te blussen.",
+        "de": "Hilf der Feuerwehr ein brennendes Haus zu löschen."
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9161,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378322,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127176,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:22:55"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "db99f653-c899-4c0b-b7df-96d0cf43992b"
+      },
+      "galleryId": 134975,
+      "id": 127176,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262439
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.6230806638505,
+          "longitude": 6.9746493643897445,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "df1c2fa2-e4be-4f5e-ad67-4b9b4a9a6602",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:59",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 12,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,20 m",
+            "de": "ab 1,20 m"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Een ritje op de draaimolen is als zachtjes meevaren op de plenzen, als glijden op de luchtstromen, alleen begeleid door het stille gerinkel van de kettingen en het gejuich van de passagiers.",
+        "de": "Eine Fahrt im Kettenkarussell, das ist wie sanftes Wellenreiten, wie Gleiten auf den Luftströmungen, begleitet nur vom leisen Klirren der Ketten und dem Jauchzen der Fahrgäste."
+      },
+      "translatableName": {
+        "nl": "Pier Side Carousel",
+        "de": "Pier Side Carousel"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Geniet van de vrije vlucht in de draaimolen.",
+        "de": "Genießt den freien Flug im großen Kettenkarussel."
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9160,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378325,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127177,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:23:58"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "296f40b0-2a57-4b52-ad44-270bf301f402"
+      },
+      "galleryId": 134975,
+      "id": 127177,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262440
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.623163548710366,
+          "longitude": 6.9743201159785295,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "5b2229ee-4c4d-4efd-8ea3-ef98307a56e2",
+      "published": true,
+      "publishedTimestamp": "2021-01-25 12:31:48",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 13,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Trap",
+            "de": "Treppe"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,30 m (onder 1,30 m onder begeleiding)",
+            "de": "ab 1,30 m (unter 1,30 m in Begleitung)"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Wil je genieten van een fantastisch uitzicht op het themapark? De hoogtelucht door je neus laten waaien? Klim in een van de gondels van het Santa Monica Wheel en laat de magie van het reuzenrad op je inwerken!",
+        "de": "Ihr wollt eine fantastische Aussicht auf den Freizeitpark genießen? Euch Höhenluft um die Nase wehen lassen? Steigt ein in eine der Gondeln des Santa Monica Wheels und lasst den Zauber des Riesenrads auf Euch wirken! "
+      },
+      "translatableName": {
+        "nl": "Santa Monica Wheel",
+        "de": "Santa Monica Wheel"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Geniet van het uitzicht over de Santa Monica Pier.",
+        "de": "Genießt die Aussicht über den Santa Monica Pier."
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9162,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378355,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127187,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:36:39"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "e4311e84-232d-445b-bdd6-6f078b13f3d8"
+      },
+      "galleryId": 134975,
+      "id": 127187,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262448
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.622102786774796,
+          "longitude": 6.972866358692458,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "7648d24c-3991-4f08-b626-53f2ce27edc9",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:01",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 14,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Trap",
+            "de": "Treppe"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,20 m (met begeleiding vanaf 0,90 m)",
+            "de": "ab 1,20 m (in Begleitung ab 0,90 m)"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "De Amerikaanse overheid wil de geruchten over buitenaardse wezens in Area 51 uit de wereld helpen. Daarom organiseert de U.S. Airforce een open dag op Groom Lake Air Force Base. Klim aan boord van een van de bevoorradingsboten en neem een kijkje achter de schermen van de legendarische onderzoeksfaciliteit. Ontdek zelf of je de geruchten wilt geloven of niet...",
+        "de": "Die U.S. Regierung möchte mit den Gerüchten über Aliens in der Area 51 aufräumen. Deshalb lädt die U.S. Air Force zu einem Tag der offenen Tür der Groom Lake Air Force Base ein. Steigt in eines der Versorgungsboote und blickt hinter die Kulissen der sagenumwobenen Forschungseinrichtung. Machen Sie sich selbst ein Bild davon, ob Sie den Gerüchten glauben schenken möchten oder nicht..."
+      },
+      "translatableName": {
+        "nl": "Area 51 - Top Secret",
+        "de": "Area 51 - Top Secret"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Verken de geheime basis per boot.",
+        "de": "Erforscht mit dem Boot die Geheimbasis."
+      },
+      "ts": "2025-01-07 13:47:48",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9162,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378358,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127188,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:37:42"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "88af5c65-f1aa-48cd-a960-283de15e8c10"
+      },
+      "galleryId": 134975,
+      "id": 127188,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        528238
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.622280517869086,
+          "longitude": 6.974008268673351,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "2348944b-496c-4173-a8ee-33c4b6707644",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:01",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 15,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "de": "Treppe"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "de": "ab 1,30 m"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        },
+        {
+          "text": {
+            "de": "Abschlussshow"
+          },
+          "description": {
+            "de": "Aufgrund der Abschlussshow \"Hollywood Christmas Lights\" schließt die Warteschlange dieser Attraktion bereits um 19:00 Uhr"
+          },
+          "icon": 242483,
+          "iconUploaded": true,
+          "order": 3
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "de": "Der mehrfach preisgekrönte Triple-Launch-Coaster Star Trek™: Operation Enterprise katapultiert Euch in ferne Galaxien. Zahlreiche Inversionen und spektakuläre Streckenelemente beamen Euch mit Warpgeschwindigkeit in neue Sphären! Im  Themenbereich Federation Plaza taucht Ihr ein in das Universum von Star Trek™ und werden selbst zu echten Starfleet Kadetten!"
+      },
+      "translatableName": {
+        "de": "Star Trek™: Operation Enterprise"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "de": "Mit Warpgeschwindigkeit in neue Sphären."
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9162,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378361,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127189,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:38:58"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "ea00406a-800e-43e7-840b-a60c68d4bedc"
+      },
+      "galleryId": 134975,
+      "id": 127189,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262450
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62309236947975,
+          "longitude": 6.975631083816816,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "f6285b60-067e-463a-a5d4-9982147b686b",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:01",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 16,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true
+        },
+        {
+          "text": {
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "de": "ab 1,45 m"
+          },
+          "icon": 242478,
+          "iconUploaded": true
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "de": "Hoch hinaus ist das Motto, wenn Ihr Euch für eine Fahrt in The High Fall entscheidet. Was startet wie ein entspannter Ausflug auf einen Aussichtsturm, wird schnell zum Adrenalinkick. Denn aus 60 Metern Höhe geht es plötzlich im freien Fall dem Erdboden entgegen – und das mit über 90 km/h!"
+      },
+      "translatableName": {
+        "de": "The High Fall"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "de": "Freier Fall aus 60 Metern Höhe."
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9162,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378364,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127190,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:39:58"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "511868ff-6c8b-42c4-912b-3f4b024046f4"
+      },
+      "galleryId": 134975,
+      "id": 127190,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262451
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.624572238955594,
+          "longitude": 6.97512812417556,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "cafca486-a8a0-4c56-bc15-6f989d513290",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:01",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 17,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "de": "ab 1,20 m"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "de": "Eine Fahrt auf dieser Achterbahn ist wie eine rasante Verfolgungsjagd im Wilden Westen – nur, dass Ihr schneller unterwegs seid als in jeder Postkutsche und auf jedem Pferd. Als erste deutsche Holzachterbahn nach traditionellem amerikanischen Vorbild vermittelt sie Wild-West-Atmosphäre der Extraklasse."
+      },
+      "translatableName": {
+        "de": "The Bandit"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "de": "Erlebt die erste Holzachterbahn Deutschlands!"
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9162,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378367,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127191,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:41:12"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "aaa39470-4e31-40ba-bf47-55383ff59e32"
+      },
+      "galleryId": 134975,
+      "id": 127191,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262452
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62207944220972,
+          "longitude": 6.975412304583246,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "6dcb1a98-a3e6-44dd-a567-b1c15d6bc6ba",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:01",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 18,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,20 m",
+            "de": "ab, 1,20 m"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Durf jij de beruchte vampierjager te vergezellen op zijn missie? 400 meter actie, adrenaline en griezel wachten op je in Van Helsing’s Factory. Kinderen zouden daarom buiten wachten, vampiers en geesten kunnen hen immers op klaarlichte dag geen kwaad doen!",
+        "de": "Wagt Ihr es, den berüchtigten Vampirjäger auf seiner Mission zu begleiten? In Van Helsing’s Factory erwarten Euch 400 Meter Action, Adrenalin und Grusel. Kinder sollten deswegen lieber draußen warten, schließlich können die Vampire und Geister ihnen im hellen Tageslicht nichts anhaben!"
+      },
+      "translatableName": {
+        "nl": "Van Helsing's Factory",
+        "de": "Van Helsing's Factory"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Ga op vampierjacht met Van Helsing in het donker!",
+        "de": "Geht mit Van Helsing auf Vampirjagd - im Dunkeln!"
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9162,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378370,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127192,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:42:00"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "9edaaca0-f5af-4a73-a660-183802ec1f94"
+      },
+      "galleryId": 134975,
+      "id": 127192,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262453
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62407785548693,
+          "longitude": 6.9739786056631825,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "40dbdfd4-8b8e-4ed5-b78d-7595b919823c",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:01",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 19,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,45 m",
+            "de": "ab 1,45 m"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Side Kick is niet voor bangeriken, hoogtevrees of zondagrijders! Tijdens de reis word je niet alleen van de ene naar de andere kant geslingerd, vast aan de circa 17 meter hoge steiger, maar draai je ook meerdere keren tegelijk om je eigen as.",
+        "de": "Side Kick ist nichts für schwache Nerven, Höhenängstler oder Sonntagsfahrer! Während der Fahrt werdet Ihr, fixiert an dem etwa 17 Meter hohen Gerüst, nicht nur von einer Seite auf die andere geschleudert, Ihr dreht Euch gleichzeitig auch mehrfach um die eigene Achse."
+      },
+      "translatableName": {
+        "nl": "Side Kick",
+        "de": "Side Kick"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Deze slinger zal jullie van jullie zintuigen beroven!",
+        "de": "Dieses Pendel raubt Euch die Sinne!"
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9162,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378373,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127193,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:43:06"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "28332bc9-ae72-4148-b431-eff35fd5a402"
+      },
+      "galleryId": 134975,
+      "id": 127193,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262454
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62372488537361,
+          "longitude": 6.973573483178783,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "a9eb20c7-7863-4aa9-8962-421a977fc29f",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:01",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 20,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Trap",
+            "de": "Treppe"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1.30 m (onder begeleiding van iemand van 1.20 m)",
+            "de": "ab 1,30 m (in Begleitung ab 1,20  m)"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "De zogenaamde Mega Disk'O Coaster is de perfecte rit voor iedereen die wil weten hoe het is om over de plenzen te rijden met niets anders dan een board onder de voeten. Hier gaat het niet alleen op en neer zoals in turbulente zeeën, maar ook in cirkels!",
+        "de": "Der sogenannte Mega Disk’O Coaster ist das perfekte Fahrgeschäft für alle, die wissen wollen, wie es ist, mit nichts als einem Brett unter den Füßen auf den Wellen zu reiten. Hier geht es nicht nur auf und ab wie beim turbulenten Seegang, sondern zusätzlich im Kreis!"
+      },
+      "translatableName": {
+        "nl": "Crazy Surfer",
+        "de": "Crazy Surfer"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Surf op de perfecte plens!",
+        "de": "Surft die perfekte Welle!"
+      },
+      "ts": "2025-01-07 13:48:05",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 0,
+      "bookingSuperiorEmails": [],
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9162,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378376,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127194,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:44:17"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "ba4bf806-7600-4700-8436-03ff91250548"
+      },
+      "galleryId": 134975,
+      "id": 127194,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262455
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.618249013725766,
+          "longitude": 6.974942388469985,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "ca3b7381-2492-4375-98ec-8cd05332185f",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:01",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 21,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Trap",
+            "de": "Treppe"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "vanaf 1.40 m (onder begeleiding van iemand van 1.10 m)",
+            "de": "ab 1,40 m (in Begleitung ab 1,10 m)"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Excalibur - Secrets of the Dark Forest neemt je mee naar de wereld van Koning Arthur en de tovenaar Merlijn. Sluit je aan bij de Ronde Tafel en red het legendarische zwaard Excalibur uit de klauwen van sinistere wezens. In Merlijns grot ga je aan boord van een ronde boot - en de avontuurlijke reis kan beginnen!",
+        "de": "Excalibur - Secrets of the Dark Forest entführt Euch in die Welt von König Artus und dem Zauberer Merlin. Schließt Euch der Tafelrunde an und befreit das legendäre Schwert Excalibur aus den Fängen finsterer Kreaturen. In Merlins Höhle besteigt Ihr ein Rundboot – und schon kann die abenteuerliche Reise losgehen!"
+      },
+      "translatableName": {
+        "nl": "Excalibur - Secrets of the Dark Forest",
+        "de": "Excalibur - Secrets of the Dark Forest"
+      },
+      "translatableSubTitle": {
+        "nl": "Een zoektocht naar het legendarische zwaard!",
+        "de": "Abenteuerliche Suche nach dem legendären Schwert!"
+      },
+      "ts": "2025-01-07 13:48:12",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9162,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378379,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127195,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:45:12"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "a8f9fc15-0530-4353-b856-6ad89f1f9fcd"
+      },
+      "galleryId": 134975,
+      "id": 127195,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262456
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.61960197427402,
+          "longitude": 6.975138189728072,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "00a5371e-ad79-4c40-91b9-8de8994dbae2",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:01",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 22,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Trap",
+            "de": "Treppe"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,20 m (onder begeleiding van iemand vanaf 1,00 m)",
+            "de": "ab 1,20 m (in Begleitung ab 1,00 m)"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "In Dora’s Big River Adventure heb je de mogelijkheid om je heldin te vergezellen op een gekke, vochtige junglereis. Tijdens deze reis moet je expeditievriendelijke kleding dragen, want in Dora’s Big River Adventure zullen jullie zeker nat worden.",
+        "de": "In Dora’s Big River Adventure habt Ihr die Gelegenheit, Eure Heldin auf einer verrückt-feuchten Dschungelreise zu begleiten. Auf diesem Trip solltet Ihr expeditionstaugliche Kleidung tragen, denn in Dora’s Big River Adventure werdet Ihr bestimmt nass."
+      },
+      "translatableName": {
+        "nl": "Dora’s Big River Adventure",
+        "de": "Dora’s Big River Adventure"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "De waterrit met super splash!",
+        "de": "Die Wasserbahn mit Supersplash!"
+      },
+      "ts": "2025-01-07 13:48:23",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9162,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378382,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127196,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:48:30"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "c268616e-0715-4899-b7ef-dcf0942496c1"
+      },
+      "galleryId": 134975,
+      "id": 127196,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262457
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.619554604173786,
+          "longitude": 6.976449789936354,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "d40dbf55-437f-404a-9d3a-22fb52afcf09",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:02",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 23,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "1,20 - 1,95 m",
+            "de": "1,20 - 1,95 m"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Houd je goed vast terwijl de geesten jullie achtervolgen door de geboorteplaats van SpongeBob tegen een achtergrond van anemonen en koralen. Strakke bochten en snelle afdalingen wachten op je - en elke keer dat je denkt dat je aan de vliegende Hollander bent ontsnapt, geeft hij je boot weer een goede werveling.",
+        "de": "Haltet Euch gut fest, wenn die Geister Euch vor der Kulisse von Anemonen und Korallen durch SpongeBobs Heimatstadt jagen. Enge Kurven und rasante Abfahrten erwarten Euch – und immer, wenn Ihr glaubt, dem fliegenden Holländer entkommen zu sein, wirbelt er Euer Boot wieder ordentlich durch."
+      },
+      "translatableName": {
+        "nl": "Ghost Chasers",
+        "de": "Ghost Chasers"
+      },
+      "translatableReservationTitle": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Pas op, snelle bochten vooruit!",
+        "de": "Achtung, rasante Kurven voraus!"
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9162,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378385,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127197,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:49:29"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "af539fe1-50c5-44f8-b7dd-471e6cce1471"
+      },
+      "galleryId": 134975,
+      "id": 127197,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262459
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.622349678074436,
+          "longitude": 6.976278937361626,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "dcdeb841-240d-4522-ba97-03ca882555ec",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:02",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 24,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Trap",
+            "de": "Treppe"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,40 m",
+            "de": "ab 1,40 m"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Hebben jullie er ooit over nagedacht hoe een grote stad als New York van elektriciteit wordt voorzien? Neem plaats in de gondel van de extra grote transformator en kijk zelf welke energie er vrijkomt als je wild door de lucht zweeft!",
+        "de": "Habt ihr Euch schon mal überlegt, wie eine Großstadt wie New York mit Strom versorgt wird? Nehmt in der Gondel des überdimensionalen Transformators Platz und seht selbst, welche Energie frei wird, wenn Ihr wild durch die Luft gewirbelt werdet!"
+      },
+      "translatableName": {
+        "nl": "NYC Transformer",
+        "de": "NYC Transformer"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Rollovers van een speciaal soort",
+        "de": "Überschläge der besonderen Art."
+      },
+      "ts": "2025-01-07 13:48:35",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-06 13:25:39"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9162,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378388,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127198,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:50:30"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "4ebfc62b-24a4-4c09-8c0b-fca7d48f0344"
+      },
+      "galleryId": 134975,
+      "id": 127198,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262461
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62175352825027,
+          "longitude": 6.9757527678373155,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "67385a47-144f-4971-acfc-2c84390b0e5e",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:02",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 25,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Trap",
+            "de": "Treppe"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,10 m",
+            "de": "ab 1,10 m"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Ben je klaar voor een avontuur dat je door tijd en ruimte voert?  Met zijn Time Riders heeft de geniale Dr. Horace Garrison Wells zojuist een compleet nieuwe ontwikkeling voltooid en is nu op zoek naar vrijwilligers om deze buitengewone voertuigen te testen!",
+        "de": "Seid Ihr bereit für ein Abenteuer, das Euch quer durch Zeit und Raum führen wird? Mit seinen Time Riders hat der geniale Dr. Horace Garrison Wells gerade eine völlig neue Entwicklung fertiggestellt – und ist jetzt auf der Suche nach Freiwilligen, die diese außergewöhnlichen Fahrzeuge testen!"
+      },
+      "translatableName": {
+        "nl": "Time Riders",
+        "de": "Time Riders"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Ga mee op een fantastische reis door de tijd!",
+        "de": "Begebt Euch auf eine fantastische Zeitreise!"
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9162,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378391,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127199,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:51:52"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "5d6012a3-1f14-4494-a033-334c1b61ce77"
+      },
+      "galleryId": 134975,
+      "id": 127199,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262462
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.619943047201716,
+          "longitude": 6.973568950573452,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "590ba58a-8099-4c33-ac14-22fb2ac7c296",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:02",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 26,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Trap",
+            "de": "Treppe"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,30 m (onder begeleiding van iemand vanaf 0,95 m)",
+            "de": "ab 1,30 m (in Begleitung ab 0,95 m)"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Trotseer de zwaartekracht, verken middelpuntvliedende krachten, bepaal de relatie tussen snelheid en plezier - een ritje in Jimmy Neutron's Atomic Flyer opent talloze mogelijkheden voor experimenten. Op ongeveer 290 meter reis je met snelheden van meer dan 40 km/u, waarbij je de zwaartekracht altijd een stap voor bent.",
+        "de": "Der Schwerkraft trotzen, Fliehkräfte erkunden, das Verhältnis von Geschwindigkeit zu Vergnügen ermitteln – eine Fahrt in Jimmy Neutron’s Atomic Flyer eröffnet Euch zahlreiche Möglichkeiten zu Experimenten. Auf etwa 290 Metern seid Ihr mit Geschwindigkeiten von über 40 km/h unterwegs, der Schwerkraft immer einen Schritt voraus. "
+      },
+      "translatableName": {
+        "nl": "Jimmy Neutron’s Atomic Flyer",
+        "de": "Jimmy Neutron’s Atomic Flyer"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Kleine onderzoekers voelen hier grote kracht!",
+        "de": "Hier können kleine Forscher große Kräfte spüren!"
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9161,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378394,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127200,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:52:46"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "a8511478-3d27-4ed5-b137-74b2caadeef2"
+      },
+      "galleryId": 134975,
+      "id": 127200,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262463
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62012078686873,
+          "longitude": 6.975492928040916,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "7593f84e-9e12-4851-9386-3c063f288641",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:10:00",
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 27,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,00 m (minder dan 1,00 m onder begeleiding)",
+            "de": "ab 1,00 m  (unter 1,00 m in Begleitung)"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "Bezoek de elfen Cosmo en Wanda in hun elfenwereld en laat je rondwervelen in de “Fairy World Spin”.  Het is hier leuk voor het hele gezin!",
+        "de": "Besuche die Elfen Cosmo und Wanda in ihrer Elfenwelt und lasse Dich im \"Fairy World Spin\" durchwirbeln. Hier geht es für die ganze Familie rund!"
+      },
+      "translatableName": {
+        "nl": "Fairy World Spin",
+        "de": "Fairy World Spin"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Ga mee met Cosmo & Wanda voor een turbulente thee!",
+        "de": "Cosmo & Wanda erwarten Euch zum turbulenten Tee!"
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "silvia@stay-app.com"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9162,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 936151,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 313427,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2022-08-26 09:06:56"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "403020ec-7f3a-4cf1-af3f-463ddb96272e"
+      },
+      "galleryId": 134975,
+      "id": 313427,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        359954
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.61929809405136,
+          "longitude": 6.974110392419011,
+          "hotelId": 0,
+          "hotelLevel": 0
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "57f67975-7169-4ddd-bb3c-2189b6607989",
+      "published": true,
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 28,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Trap",
+            "de": "Treppenstufen"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,10 m (onder 1,30 m met begeleiding)",
+            "de": "ab 1,10 m  (unter 1,30 m mit Begleitung)"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "De familieachtbaan, gebaseerd op de glorieuze filmstudio's in Californië, neemt je mee op een spannende Hollywood-studiotour met snelheden tot 60 km/u en verschillende decors en scènes. Geluids- en speciale effecten, twee voorwaartse en achterwaartse versnellingen en een 360 graden roterend platform zorgen voor een meeslepende ervaring met multimedia-elementen. Welkom bij Movie Park Studios!",
+        "de": "Die Familienachterbahn, angelehnt an die glorreichen Filmstudios in Kalifornien, nimmt Euch mit auf eine bis zu 60km/h schnelle, spannende Hollywood-Studio-Tour mit verschiedenen Sets und Szenen. Sound- und Special Effects, zwei Beschleunigungen vorwärts und rückwärts sowie eine 360-Grad-Drehplattform sorgen für ein immersives Erlebnis mit Multimedia-Elementen. Willkommen in den Movie Park Studios! "
+      },
+      "translatableName": {
+        "nl": "Movie Park Studio Tour",
+        "de": "Movie Park Studio Tour"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Lichten aan, camera draait! Deze achtbaan tovert je om tot een filmster!",
+        "de": "Scheinwerfer an, Kamera läuft! Diese Achterbahn macht Euch zum Filmstar!"
+      },
+      "ts": "2025-01-07 13:46:56",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    },
+    {
+      "bookingAutoReplyEmail": {
+        "en": "Roger that! We will confirm your booking soon.",
+        "es": "¡Recibido! En breve te confirmamos la reserva que has hecho a través de la App"
+      },
+      "bookingConfirmAutoReplyEmail": {
+        "en": "Done! Your booking is confirmed. You can see it in your profile.",
+        "es": "¡Listo! Ya lo tienes. Reserva confirmada. Recuerda que en tu perfil puedes ver la reserva"
+      },
+      "bookingEmails": [
+        "info@zetaboo.es"
+      ],
+      "bookingEnabled": 1,
+      "bookingSuperiorEmails": [],
+      "bookingSystem": 4,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9162,
+      "cmsModule": 88,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 1078537,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 360931,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2023-03-23 22:17:20"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "externalBookingTranslatableUrl": {
+        "nl": "https://www.movieparkgermany.de/nl/extras/extras-standalone/select-month?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass",
+        "de": "https://movieparkgermany.de/tickets-kaufen/extras/speedy-pass?utm_source=app_war&utm_medium=app&utm_campaign=app_mpg_attracions_speedy_pass"
+      },
+      "externalId": {
+        "integration": "twisticDigital",
+        "id": "907dc410-e875-4e91-9109-b67c684bc2a3"
+      },
+      "galleryId": 134975,
+      "id": 360931,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        528242
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62473428325187,
+          "longitude": 6.9731721305201555,
+          "hotelId": 0,
+          "hotelLevel": 0
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": false,
+      "productsCombosEnabled": false,
+      "productsCount": 0,
+      "publicId": "96d2a309-6077-4797-8794-b1843ec1e19f",
+      "published": true,
+      "seatingsEnabled": false,
+      "sendEmailWhenRejected": false,
+      "sendReminderSuperiorEmail": false,
+      "serviceOrder": 29,
+      "shareable": true,
+      "status": 1,
+      "temporaryClosed": false,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Trap",
+            "de": "Treppenstufen"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "nl": "Hoogte",
+            "de": "Mindestgröße"
+          },
+          "description": {
+            "nl": "Vanaf 1,30 m",
+            "de": "ab 1,30 m"
+          },
+          "icon": 242478,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "timeReminderSuperiorEmail": 5,
+      "translatableDescription": {
+        "nl": "De achtergrond van de achtbaan strekt zich uit over het verlaten terrein van Movie Park Studios, ooit bekend als het oude studioterrein van Spaghetti Western. De legendarische “Iron Claw”-westernfilms werden op deze locatie opgenomen, met de populaire acteur Wingo Star in de hoofdrol. Wingo Star, een charismatische gier met een ijzeren klauw, gaf deze films hun unieke charme.",
+        "de": "Die Kulisse der Achterbahn erstreckt sich über das verlassene Gelände der Movie Park Studios, einst bekannt als das alte Italo-Western Studiogelände. An diesem Ort wurden die legendären \"Iron-Claw\" Westernfilme gedreht, die mit dem beliebten Darsteller Wingo Star in der Hauptrolle aufwarten konnten. Wingo Star, ein charismatischer Geier mit einer eisernen Kralle, verlieh diesen Filmen ihren einzigartigen Charme."
+      },
+      "translatableName": {
+        "nl": "Iron Claw",
+        "de": "Iron Claw"
+      },
+      "translatableReservationTitle": {
+        "nl": "Koop nu jouw Speedy Pass",
+        "de": "Kaufe jetzt Deinen Speedy Pass"
+      },
+      "translatableSubTitle": {
+        "nl": "Loops zonder vaste grond onder je voeten!",
+        "de": "Loopings ohne festen Boden unter den Füßen!"
+      },
+      "ts": "2025-01-07 13:48:47",
+      "type": 40,
+      "typeString": "attraction",
+      "waitingTime": -3,
+      "waitingTimeLastUpdate": "2025-04-07 14:23:09"
+    }
+  ],
+  "errors": [],
+  "isControlledError": false,
+  "success": true
+}

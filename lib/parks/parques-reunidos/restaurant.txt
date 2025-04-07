@@ -1,0 +1,2197 @@
+{
+  "data": [
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9163,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378397,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127201,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:55:04"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127201,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        531963
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.621283586792345,
+          "longitude": 6.9754045449708135,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "07c87343-9056-4990-b0fb-c57b7d014612",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:57",
+      "seatingsEnabled": false,
+      "serviceOrder": 1,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja",
+            "en": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Bij Wok of Fame krijg je niet alleen gebakken noedels in Aziatische stijl (met of zonder kip), maar ook kleurrijke bubble tea voor een zoete afsluiter of verfrissing tussendoor. ",
+        "de": "Bei Wok of Fame bekommt Ihr nicht nur gebratene Nudeln im Asia-Style (wahlweise mit oder ohne Hähnchen), sondern auch bunten Bubble Tea für den süßen Abschluss oder die Erfrischung zwischendurch. ",
+        "en": "Genießt hier die originale chinesische Nudelpfanne und würzt sie ganz nach Eurem persönlichen Geschmack. Probiert auch unsere vegetarischen Frühlingsrollen.\n"
+      },
+      "translatableName": {
+        "nl": "Wok of Fame - Asia Noodles",
+        "de": "Wok of Fame - Asia Noodles",
+        "en": "Asia Wok"
+      },
+      "translatableSubTitle": {
+        "nl": "Zin in Aziatisch eten tijdens de pauze?",
+        "de": "In der Drehpause Lust auf Asiatsch? ",
+        "en": "Originale chinesische Nudeln"
+      },
+      "ts": "2024-06-20 07:17:56",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9163,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378403,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127203,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 10:59:16"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127203,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262465
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62093469125641,
+          "longitude": 6.975033583576491,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "bdc6a55b-11dc-4e28-81a2-b025ff09894d",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:57",
+      "seatingsEnabled": false,
+      "serviceOrder": 2,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Hier vind je alles wat je nodig hebt om een korte pauze tot een hoogtepunt te maken: verschillende koffievariaties, een gevarieerde selectie gebak, wafels en schepijs. ",
+        "de": "Hier gibt es alles, was eine kurze Pause zum kleinen Highlight macht: verschiedene Kaffeevariationen, eine vielfältige Kuchen- und Gebäckauswahl, Waffeln oder auch Kugeleis. "
+      },
+      "translatableName": {
+        "nl": "Bakery",
+        "de": "Bakery"
+      },
+      "translatableSubTitle": {
+        "nl": "DE hotspot voor koffie, taart en meer!",
+        "de": "DER Hotspot für Kaffee, Kuchen und mehr!"
+      },
+      "ts": "2024-09-18 13:30:44",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9163,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378406,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127204,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:00:13"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127204,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        576483,
+        576484,
+        576485,
+        576486,
+        576487,
+        576488,
+        576490,
+        576491,
+        576489
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62038737497915,
+          "longitude": 6.9759938144038225,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "8bd30c94-5e18-4693-89c0-9eb4b18b609f",
+      "published": true,
+      "publishedTimestamp": "2021-01-25 12:31:41",
+      "seatingsEnabled": false,
+      "serviceOrder": 3,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "de": "Taucht ein in das kulinarische Erlebnis unseres \"California Coffee\"! Genießt unsere einzigartigen Eisburger, verführerischen \"Caab\"-Cakes und himmlischen Shakes. Lasst Euch von unserem hausgemachten Bananenbrot, dem klassischen Cheesecake und dem unwiderstehlichen Brownie mit Salted Caramel nach Hollywood zaubern. Für den herzhaften Hunger bieten wir frische Wraps und Bagels – perfekt für jeden Geschmack!",
+        "nl": "Bij California Coffee kun je genieten van geurige koffiespecialiteiten, maar ook van onze heerlijke donuts, muffins en diverse bagels."
+      },
+      "translatableName": {
+        "nl": "California Coffee",
+        "de": "California Coffee"
+      },
+      "translatableSubTitle": {
+        "nl": "Zelfs sterren hebben soms een koffiepauze nodig!",
+        "de": "Auch Stars brauchen mal eine Kaffeepause!"
+      },
+      "ts": "2024-07-15 06:19:42",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9165,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378409,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127205,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:01:09"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127205,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262467
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62323412733904,
+          "longitude": 6.976198749067102,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "d81c289a-2b3b-451b-93b9-f0eed28752d6",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:58",
+      "seatingsEnabled": false,
+      "serviceOrder": 4,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Ken je onze Loaded Fries al? Knapperige frietjes, belegd en gegarneerd met verschillende lekkere toppings, zoals tzatziki, kaas & spek of guacamole. ",
+        "de": "Kennt Ihr schon unsere Loaded Fries? Knusprige Pommes, belegt und garniert mit verschiedenen schmackhaften Toppings, wie beispielsweise Tzatziki, Cheese & Bacon oder Guacamole. \n"
+      },
+      "translatableName": {
+        "nl": "El Sombrero",
+        "de": "El Sombrero"
+      },
+      "translatableSubTitle": {
+        "nl": "De volle lading friet!",
+        "de": "Die volle Ladung Fries!"
+      },
+      "ts": "2024-06-20 07:33:23",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9163,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378412,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127206,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:02:08"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127206,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262468
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62091114063434,
+          "longitude": 6.974896867143157,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "7903588e-90e5-4df3-adc0-1d803a118237",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:57",
+      "seatingsEnabled": false,
+      "serviceOrder": 5,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Alles wat je zoetekauw verlangt: een kleurrijke selectie van gekonfijt fruit, luchtig snoepgoed, knapperige popcorn, verse kokosstukjes en natuurlijk geroosterde amandelen. ",
+        "de": "Alles was das Naschkatzen-Herz begehrt: Eine bunte Auswahl an kandierten Früchten, luftig-leichte Zuckerwatte, knackiges Popcorn, frische Kokosnuss-Stücke und natürlich auch gebrannte Mandeln. \n"
+      },
+      "translatableName": {
+        "de": "Fruits and Candy",
+        "nl": "Fruits and Candy"
+      },
+      "translatableSubTitle": {
+        "nl": "De zoete verleiding van Hollywood Boulevard!",
+        "de": "Die süße Verführung des Hollywood Boulevards!"
+      },
+      "ts": "2024-06-20 07:20:53",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9163,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378415,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127207,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:02:59"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127207,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262469
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.620492799763454,
+          "longitude": 6.975516381199172,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "82a5a2b2-2fb5-458c-9ba7-6620790fe0b2",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:57",
+      "seatingsEnabled": false,
+      "serviceOrder": 6,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "de": "Ihr wollt Euch nicht hungrig ins nächste Action-Abenteuer stürzen? Keine Sorge, Hollywood Snacks versorgt Euch mit Pommes, Frikandeln, Curry- oder Bratwurst sowie Getränken und unserer eiskalten Frozen Cola. \n",
+        "nl": "Wil je je niet met honger in het volgende actieavontuur storten? Geen zorgen, Hollywood Snacks voorziet je van friet, frikandel, curryworst of braadworst, evenals drankjes en onze ijskoude frozen cola. "
+      },
+      "translatableName": {
+        "nl": "Hollywood Snacks",
+        "de": "Hollywood Snacks"
+      },
+      "translatableSubTitle": {
+        "de": "Bestens gewappnet für die nächste Actionszene!",
+        "nl": "Perfect uitgerust voor de volgende actiescène!"
+      },
+      "ts": "2025-03-24 08:56:25",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9163,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378418,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127208,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:03:56"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127208,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262470
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62108541494843,
+          "longitude": 6.975854339535048,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "adf0c240-4f97-40d4-b308-b233e9f1d4cd",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:58",
+      "seatingsEnabled": false,
+      "serviceOrder": 7,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Jij hebt het hier voor het zeggen: stel je eigen gepersonaliseerde VIP-ijsmix samen van vanille softijs, heerlijke swirls en seizoentopping!",
+        "de": "Hier führt Ihr Regie: Kreiiert Euren individuellen VIP-Eismix aus Vanille-Softeis, leckerem Swirl und saisonalen Toppings!"
+      },
+      "translatableName": {
+        "nl": "Langnese Happiness Station",
+        "de": "Langnese Happiness Station"
+      },
+      "translatableSubTitle": {
+        "nl": "IJs met een (plot)twist!",
+        "de": "Das Eis mit (Plot-)Twist!"
+      },
+      "ts": "2024-06-20 07:25:53",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9165,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378421,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127209,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:04:49"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127209,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        311721
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62174482521463,
+          "longitude": 6.975087227756789,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "06edf634-b254-49e3-b9dc-dcffc8ef70b4",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:58",
+      "seatingsEnabled": false,
+      "serviceOrder": 8,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "de": "Hier bekommt Ihr frisch gemahlene und gebrühte Kaffeespezialitäten und dazu passend die besten Donuts weit und breit.\n",
+        "nl": "Hier kun je terecht voor versgemalen en gezette koffiespecialiteiten en de lekkerste donuts van over de hele wereld."
+      },
+      "translatableName": {
+        "nl": "Dunkin' Donuts",
+        "de": "Dunkin' Donuts"
+      },
+      "translatableSubTitle": {
+        "de": "Entdeckt die weltbekannten Donut-Spezialitäten!",
+        "nl": "Ontdek de wereldberoemde donutspecialiteiten!"
+      },
+      "ts": "2025-03-24 14:37:59",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9163,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378427,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127211,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:07:24"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127211,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262475
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.621420790240194,
+          "longitude": 6.975800197347635,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "91eabb1e-1310-4dd2-aca2-f6d506adcfc0",
+      "published": true,
+      "publishedTimestamp": "2021-01-25 12:31:40",
+      "seatingsEnabled": false,
+      "serviceOrder": 9,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Verandering van omgeving in de New York Grill! Geniet van tapbier, braadworst en kielbasa - je perfecte co-stars voor een onvergetelijke pauze. Heerlijk als een film!",
+        "de": "Szenewechsel zum New York Grill! Genießt Fassbier, Bratwurst und Krakauer – Eure perfekten Co-Stars für eine unvergessliche Pause. Filmreif lecker!"
+      },
+      "translatableName": {
+        "nl": "New York Grill",
+        "de": "New York Grill"
+      },
+      "translatableSubTitle": {
+        "nl": "Het is altijd barbecueseizoen in het centrum van New York!",
+        "de": "Mitten in New York ist immer Grillsaison!"
+      },
+      "ts": "2024-06-20 07:26:22",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9166,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378430,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127212,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:08:46"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127212,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        531957,
+        531958,
+        531959,
+        531960,
+        531961
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.6207424018193,
+          "longitude": 6.975148788135663,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "c2f575b3-798b-40d7-8425-a8a174a0bb89",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:59",
+      "seatingsEnabled": false,
+      "serviceOrder": 10,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "de": "Ja",
+            "nl": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        },
+        {
+          "text": {
+            "de": "Vegane und glutenfreie Optionen verfügbar"
+          },
+          "description": {
+            "de": "Auf Anfrage"
+          },
+          "icon": 242638,
+          "iconUploaded": true,
+          "order": 2
+        }
+      ],
+      "translatableDescription": {
+        "de": "In der neuen „Trattoria Hollywood“ erwartet Euch ein neues, gemütliches Ambiente im amerikanisch-italienischen Stil. Hier könnt Ihr Pizza, Pasta, Salate und Snacks vom italienischen „All You Can Eat“-Buffet genießen und an der Zapfanlage Getränke wählen!\n\nÖffnungszeiten bei Parköffnung bis 18:00 Uhr: 12:00 - 17:00 Uhr\nÖffnungszeiten bei Parköffnung bis 17:00 Uhr: 12:00 - 16:30 Uhr\nÖffnungszeiten bis 22:00 Uhr: 12:00 - 20:30 Uhr\nÖffnungszeiten bis 21:00 Uhr: 12:00 - 19:00 Uhr\n\nÄnderungen vorbehalten",
+        "nl": "In de nieuwe \"Trattoria Hollywood\" wacht je een nieuwe, gezellige sfeer in Amerikaans-Italiaanse stijl. Hier kun je genieten van pizza, pasta, salades en snacks van het Italiaanse \"All You Can Eat\" buffet en drankjes van de tap kiezen!\n\nOpeningstijden wanneer het park geopend is tot 18:00: 12:00 - 17:00\nOpeningstijden wanneer het park geopend is tot 17:00: 12:00 - 16:30\nOpeningstijden tot 22:00: 12:00 - 20:30\nOpeningstijden tot 21:00: 12:00 - 19:00\n\nWijzigingen voorbehouden"
+      },
+      "translatableName": {
+        "nl": "Trattoria Hollywood",
+        "de": "Trattoria Hollywood"
+      },
+      "translatableSubTitle": {
+        "nl": "Pizza | Pasta | Salade",
+        "de": "Pizza | Pasta | Salat"
+      },
+      "ts": "2025-03-24 14:49:58",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9163,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378439,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127215,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:09:49"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127215,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262479
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.623398113370385,
+          "longitude": 6.974292884388946,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "695476e4-0f76-4378-b0bd-e50e6de9d2b5",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:58",
+      "seatingsEnabled": false,
+      "serviceOrder": 11,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Trakteer jezelf op een lekkere verfrissing: kijk uit naar hotdogs, verfrissend slush-ijs en het onweerstaanbare Ben & Jerry's-ijs. Ideaal voor een pauze op de Santa Monica Pier!",
+        "de": "Gönnt Euch eine leckere Stärkung: Freut Euch auf Hot Dogs, erfrischendes Slush Ice und das unwiderstehliche Ben & Jerry's Eis. Ideal für eine Pause am Santa Monica Pier!"
+      },
+      "translatableName": {
+        "nl": "Pier Side Inn",
+        "de": "Pier Side Inn"
+      },
+      "translatableSubTitle": {
+        "nl": "Geniet van het zomergevoel met een snack!",
+        "de": "Mit einem Imbiss das Sommerfeeling genießen!"
+      },
+      "ts": "2024-06-20 07:27:19",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9163,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378442,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127216,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:10:38"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127216,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262481
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.624128516806174,
+          "longitude": 6.974721719973269,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "ae17e37d-5941-47f1-be54-3a1d5c269c4f",
+      "published": true,
+      "publishedTimestamp": "2021-01-25 12:31:41",
+      "seatingsEnabled": false,
+      "serviceOrder": 12,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Knort je maag na een rit door het Wilde Westen? Dan op naar het Pizza Depot! Heerlijke pizza's in verschillende smaken liggen al op je te wachten. ",
+        "de": "Der Magen knurrt beim Ritt durch den Wilden Westen? Dann ab zum Pizza Depot! Leckere Pizza-Slices in verschiedenen Sorten warten schon auf Euch. "
+      },
+      "translatableName": {
+        "nl": "Pizza Depot",
+        "de": "Pizza Depot"
+      },
+      "translatableSubTitle": {
+        "nl": "Tijd voor een pizzapauze! ",
+        "de": "Zeit für eine Pizzapause! "
+      },
+      "ts": "2024-06-20 07:27:37",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9165,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378445,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127217,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:11:47"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127217,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262482
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.621193747292835,
+          "longitude": 6.97581760226774,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "e4d93a16-fbde-47ac-bc00-4c6fc6075dc8",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:58",
+      "seatingsEnabled": false,
+      "serviceOrder": 13,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Een coole combinatie van ijs en drank in felle kleuren - wat is er beter? ",
+        "de": "Eine coole Kombi aus Eis und Getränk in knalligen Farben – was kann es Besseres geben? \n"
+      },
+      "translatableName": {
+        "nl": "Slush Ice Factory",
+        "de": "Slush Ice Factory"
+      },
+      "translatableSubTitle": {
+        "nl": "Verfrissing gegarandeerd!",
+        "de": "Erfrischung garantiert!"
+      },
+      "ts": "2024-06-20 07:34:09",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9163,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378448,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127218,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:13:01"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127218,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262483
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.61987490116171,
+          "longitude": 6.974945146905425,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "5af7a9f7-1798-48bb-84da-35966072d68c",
+      "published": true,
+      "publishedTimestamp": "2021-01-25 12:31:41",
+      "seatingsEnabled": false,
+      "serviceOrder": 14,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Zin in een snack? Met hotdogs, ijs of ijslolly's kun je snel je honger stillen. ",
+        "de": "Snack gefällig? Mit Hot Dogs, Slush- oder Stieleis könnt Ihr den kleinen Hunger schnell besiegen. "
+      },
+      "translatableName": {
+        "nl": "Snack Attack",
+        "de": "Snack Attack"
+      },
+      "translatableSubTitle": {
+        "nl": "Tijd voor een snackpauze! ",
+        "de": "Zeit für eine Snackpause! "
+      },
+      "ts": "2024-06-20 07:31:15",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9165,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378451,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127219,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:13:58"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127219,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262485
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.61897870567697,
+          "longitude": 6.975964545916189,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "40506d26-bd0c-405a-a8bf-3a3e824eea54",
+      "published": true,
+      "publishedTimestamp": "2021-01-25 12:31:42",
+      "seatingsEnabled": false,
+      "serviceOrder": 15,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Genießt Burger in verschiedenen Varianten (auch vegetarisch), Pommes, Chicken Nuggets oder eine Salat Bowl und zum süßen Abschluss vielleicht ein leckeres Kugeleis. \n",
+        "de": "Genießt Burger in verschiedenen Varianten (auch vegetarisch), Pommes, Chicken Nuggets oder eine Salat Bowl und zum süßen Abschluss vielleicht ein leckeres Kugeleis. "
+      },
+      "translatableName": {
+        "nl": "Snack and Drinks",
+        "de": "Snack and Drinks"
+      },
+      "translatableSubTitle": {
+        "nl": "Heerlijke hamburgers in nickelodeon LAND!",
+        "de": "Leckere Burger im nickelodeon LAND!"
+      },
+      "ts": "2024-06-20 07:35:00",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9163,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378454,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127220,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:15:01"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127220,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        528244
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62204715071727,
+          "longitude": 6.975665618595972,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "53da49a9-72a7-4c87-aab7-f85d75b0b274",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:58",
+      "seatingsEnabled": false,
+      "serviceOrder": 16,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Geniet van onze heerlijke aardappel spirellos, op smaak gebracht met een selectie van verschillende kruiden. Perfect als tussendoortje!",
+        "de": "Genießt unsere köstlichen Kartoffelspirellos, verfeinert mit einer Auswahl an verschiedenen Gewürzen. Perfekt für einen Snack zwischendurch!"
+      },
+      "translatableName": {
+        "nl": "Spirellos",
+        "de": "Spirellos"
+      },
+      "translatableSubTitle": {
+        "nl": "Met deze aardappelsnack krijg je de smaak te pakken!",
+        "de": "Mit diesem Kartoffelsnack habt Ihr den Dreh raus!"
+      },
+      "ts": "2024-06-20 07:31:42",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9165,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378457,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127221,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:16:41"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127221,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262488
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62117961700165,
+          "longitude": 6.974588336880019,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "460ccf08-c608-499c-97dd-10ee6d74e650",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:58",
+      "seatingsEnabled": false,
+      "serviceOrder": 17,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Auch bei Movie Park Germany darf das bekannteste Sandwich der Welt natürlich nicht fehlen! Wählt aus verschiedenen frischen Broten und Belägen und stellt Euch Euer eigenes „Sub\" zusammen.\n",
+        "de": "Auch bei Movie Park Germany darf das bekannteste Sandwich der Welt natürlich nicht fehlen! Wählt aus verschiedenen frischen Broten und Belägen und stellt Euch Euer eigenes „Sub\" zusammen.\n"
+      },
+      "translatableName": {
+        "nl": "Subway",
+        "de": "Subway"
+      },
+      "translatableSubTitle": {
+        "nl": "Maak het podium vrij voor de beroemdste sandwich ter wereld!",
+        "de": "Bühne frei für das bekannteste Sandwich der Welt!"
+      },
+      "ts": "2024-06-20 07:36:27",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9166,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378460,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127222,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:17:45"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127222,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        311714
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62229973379229,
+          "longitude": 6.974407403512091,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "6f5b5c08-3495-4278-9320-3d502efcdcdf",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:59",
+      "seatingsEnabled": false,
+      "serviceOrder": 18,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Taucht ein in die Welt von Van Helsing! Genießt unser ganz besonderes Buffet wechselndem Angebot. Frische und Abwechslung sind garantiert – ein Erlebnis für die ganze Familie!",
+        "de": "Taucht ein in die Welt von Van Helsing! Genießt unser ganz besonderes Buffet wechselndem Angebot. Frische und Abwechslung sind garantiert – ein Erlebnis für die ganze Familie!\n"
+      },
+      "translatableName": {
+        "nl": "Van Helsing's Club",
+        "de": "Van Helsing's Club"
+      },
+      "translatableSubTitle": {
+        "nl": "Het buffet voor alle vampierenjagers is geopend!",
+        "de": "Das Buffet für alle Vampirjäger ist eröffnet!"
+      },
+      "ts": "2024-06-20 07:37:46",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9163,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378463,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127223,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:18:54"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127223,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262492
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.6240150411277,
+          "longitude": 6.9744997045462265,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "845200ec-9f7a-438d-9f3b-d616bf15ec78",
+      "published": true,
+      "publishedTimestamp": "2021-01-25 12:31:41",
+      "seatingsEnabled": false,
+      "serviceOrder": 19,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Ervaar de ultieme frietverwennerij! Onze knapperige frietjes worden geleverd met een selectie heerlijke toppings - perfect voor elke smaak.",
+        "de": "Erlebe den ultimativen Pommes-Genuss! Unsere knusprigen Pommes kommen mit einer Auswahl an köstlichen Toppings – perfekt für jeden Geschmack.\n"
+      },
+      "translatableName": {
+        "nl": "Western Ranch",
+        "de": "Western Ranch"
+      },
+      "translatableSubTitle": {
+        "nl": "De snelle metgezel voor cowboys en bandieten",
+        "de": "Der schnelle Wegbegleiter für Cowboys und Banditen"
+      },
+      "ts": "2024-06-20 07:32:23",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9163,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378466,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127224,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:19:39"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127224,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262493
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62284613929155,
+          "longitude": 6.975615417742658,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "60ad1b2b-aa83-4bbd-a48c-b471fffa3a6a",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:58",
+      "seatingsEnabled": false,
+      "serviceOrder": 20,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Of je nu zin hebt in iets hartigs of iets zoets - de keuze is aan jou! Curryworst, chrispers, slush en ijslolly's bereiden alle cowgirls en cowboys voor op hun volgende westernavontuur. ",
+        "de": "Egal ob Euch der Sinn nach etwas Herzhaftem oder Süßem steht - hier habt Ihr die Wahl! Currywurst, Chrispers, Slush- und Stieleis bereiten alle Cowgirls und -boys bestens auf Ihr nächstes Westernabenteuer vor. "
+      },
+      "translatableName": {
+        "nl": "Western Snack",
+        "de": "Western Snack"
+      },
+      "translatableSubTitle": {
+        "nl": "Een \"Yee-Haw\" voor de westerse snack! ",
+        "de": "Ein \"Yee-Haw\" für den Western Snack! "
+      },
+      "ts": "2024-06-20 07:33:02",
+      "type": 8,
+      "typeString": "restaurant"
+    },
+    {
+      "bookingEnabled": 0,
+      "calendarEnabled": false,
+      "catalogV2Enabled": false,
+      "category": 9165,
+      "cmsModule": 4,
+      "currency": 48,
+      "currencyData": {
+        "id": 48,
+        "currencyString": "EURO",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "isoCode": "EUR",
+        "countryCode": "EU",
+        "priority": 1,
+        "ts": "2014-01-17 13:52:32"
+      },
+      "currentSeason": {
+        "id": 378469,
+        "name": {
+          "es": "Por defecto",
+          "en": "Default"
+        },
+        "service": 127225,
+        "dayLimitBooking": 0,
+        "minutesLimitBooking": 0,
+        "minutesLimitBookingType": 2,
+        "bookingDaysRange": 7,
+        "maxPaxFromMobile": 4,
+        "isDefault": true,
+        "seasonBehaviour": 1,
+        "status": 1,
+        "ts": "2020-05-13 11:20:25"
+      },
+      "establishment": 1110,
+      "establishmentPublicId": "24678714-3889-4f52-86be-770d5b066924",
+      "galleryId": 64204,
+      "id": 127225,
+      "itemsCatalogEnabled": false,
+      "leadsEnabled": false,
+      "letsplayEnabled": false,
+      "ordersEnabled": false,
+      "paxSeparation": false,
+      "paymentRequired": false,
+      "photographs": [
+        262494
+      ],
+      "place": {
+        "point": {
+          "latitude": 51.62138215075403,
+          "longitude": 6.975367159194539,
+          "hotelId": 0,
+          "hotelLevel": 0,
+          "targetGrouping": 178743
+        },
+        "service": 0,
+        "item": {
+          "itemType": 0,
+          "itemId": 0
+        },
+        "selected": "point"
+      },
+      "productsCatalogEnabled": true,
+      "productsCombosEnabled": true,
+      "productsCount": 0,
+      "publicId": "b4126b56-5a18-4e96-82c0-7dfa4a2e285a",
+      "published": true,
+      "publishedTimestamp": "2021-01-26 11:09:58",
+      "seatingsEnabled": false,
+      "serviceOrder": 21,
+      "shareable": true,
+      "status": 1,
+      "textList": [
+        {
+          "text": {
+            "nl": "Toegankelijkheid",
+            "de": "Behindertenzugang"
+          },
+          "description": {
+            "nl": "Ja",
+            "de": "Ja"
+          },
+          "icon": 242488,
+          "iconUploaded": true,
+          "order": 1
+        }
+      ],
+      "translatableDescription": {
+        "nl": "Willkommen im Yellow Cab! Es erwarten Euch verschiedene Burgervarianten (auch vegetarisch), Pommes, Chicken Nuggets und Salat Bowls. Falls Ihr auf der Suche nach etwas Süßem seid, findet Ihr hier unsere eiskalte Frozen Cola und leckeres Ben & Jerry's Eis.\n",
+        "de": "Willkommen im Yellow Cab! Es erwarten Euch verschiedene Burgervarianten (auch vegetarisch), Pommes, Chicken Nuggets und Salat Bowls. Falls Ihr auf der Suche nach etwas Süßem seid, findet Ihr hier unsere eiskalte Frozen Cola und leckeres Ben & Jerry's Eis.\n"
+      },
+      "translatableName": {
+        "nl": "Yellow Cab",
+        "de": "Yellow Cab"
+      },
+      "translatableSubTitle": {
+        "nl": "Essen in der Stadt, die niemals schläft! ",
+        "de": "Essen in der Stadt, die niemals schläft! "
+      },
+      "ts": "2024-06-20 07:36:45",
+      "type": 8,
+      "typeString": "restaurant"
+    }
+  ],
+  "errors": [],
+  "isControlledError": false,
+  "success": true
+}
